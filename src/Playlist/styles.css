@@ -1,0 +1,13 @@
+.playlist-base {
+    height: 100vh;
+    padding: 0 50px;
+    background-color: #fffefe;
+}
+
+.video-item{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* align-content: center; */
+}
+  

@@ -1,0 +1,18 @@
+.BaseStyle {
+  color: rgb(224, 224, 224);
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+.box {
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+}
+
+.ant-menu-title-content {
+  font-size: 16px;
+  font-weight: 500;
+}
